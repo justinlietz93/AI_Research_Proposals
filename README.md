@@ -93,7 +93,7 @@ Feel free to use these proposals as inspiration for your own research, or as sta
 ### For Contributors
 If you'd like to contribute a new AI research proposal to this repository:
 
-1. Generate a research proposal using the Breakthrough-Idea Walkthrough Framework (available in a separate repository)
+1. Generate a research proposal using the Breakthrough-Idea Walkthrough Framework (available in a separate repository) [https://github.com/justinlietz93/breakthrough_generator]
 2. Format your proposal following the academic structure of existing proposals
 3. Submit a pull request with your new proposal document
 
