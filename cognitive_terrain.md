@@ -7,10 +7,10 @@
 
 **Cognitive Terrain: A Bio-Inspired Cognitive Memory System**
 
-Principal Investigator: Justin Lietz
-Institution: None
-Date: 2025-03-02  
-Submitted to: N/A
+Principal Investigator: Justin Lietz<br>
+Institution: None<br>
+Date: 2025-03-02  <br>
+Submitted to: N/A<br>
 
 ---
 
